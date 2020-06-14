@@ -52,3 +52,4 @@ Ser una empresa de referencia, reconocida como la mejor en el segmento por clien
 - Instagram: [IOminds.dev](https://www.instagram.com/iominds.dev)
 - Twitter: [IOminds](https://www.twitter.com/iominds)
 - GitHub: [IOminds](https://github.com/iominds)
+- Gmail: [iominds.dev@gmail.com](mailto:iominds.dev@gmail.com)
